@@ -1,27 +1,5 @@
-// import java.util.Scanner;
-
-// public class Faktorial{
-//     public static void main(String[]args){
-//         Scanner in = new Scanner(System.in);
-
-//         int seratusRibu;
-//         int limaPuluhRibu;
-//         int duaPuluhRibu;
-//         int limaRibu;
-//         int seribu;
-//         int limaPuluh;
-
-//         int uangBudi;
-        
-//         System.out.print("input : ");
-//         uangBudi = in.nextInt();
-
-
-        
-//         System.out.println("output : "+);
-//     }
-// }
 import java.util.Scanner;
+
 public class Soal5 {
     public static void main(String[] args) {
  
